@@ -10,4 +10,6 @@ https://www.dropbox.com/sh/47s97kaw4p8n31g/AAAeWHgl0euewj1ge577_uE9a?dl=0
 
 ## Training:
 
-Run the DCASE_training.ipynb jupyter notebook
+1. Download the data from links at: http://dcase.community/challenge2019/task-acoustic-scene-classification
+2. Adjuyst the paths in the DCASE_training.ipynb jupyter notebook
+3. Run the DCASE_training.ipynb jupyter notebook
