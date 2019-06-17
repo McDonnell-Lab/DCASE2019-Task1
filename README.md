@@ -5,11 +5,12 @@ McDonnell and Gao: "Acoustic scene classification using deep residual networks w
 
 ## Inference:
 
-View the inference jupyter notebooks. Rerun after downloading trained models (trained on the 70% DCASE training split of the development sets):
+1. View the inference jupyter notebooks to see confusion matrices from the technical report. 
+2. Rerun after downloading trained models (trained on the 70% DCASE training split of the development sets):
 https://www.dropbox.com/sh/47s97kaw4p8n31g/AAAeWHgl0euewj1ge577_uE9a?dl=0
 
 ## Training:
 
 1. Download the data from links at: http://dcase.community/challenge2019/task-acoustic-scene-classification
-2. Adjuyst the paths in the DCASE_training.ipynb jupyter notebook
+2. Adjust the paths in the DCASE_training.ipynb jupyter notebook
 3. Run the DCASE_training.ipynb jupyter notebook
