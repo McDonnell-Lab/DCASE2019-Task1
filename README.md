@@ -1,4 +1,4 @@
-# DCASE2019_Task1
+# DCASE2019-Task1
 Code for DCASE 2019 Task 1a, 1b and 1c associated with Technical Report:
 
 McDonnell and Gao: "Acoustic scene classification using deep residual networks with late fusion of separated high and low frequency paths", submitted to Task 1 of the 2019 DCASE Challenge (http://dcase.community/challenge2019/task-acoustic-scene-classification)
